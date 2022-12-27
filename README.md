@@ -21,3 +21,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iraj-norouzi&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iraj-norouzi&layout=compact)](https://github.com/iraj-norouzi/github-readme-stats)
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
